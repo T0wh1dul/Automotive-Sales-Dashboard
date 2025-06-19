@@ -7,7 +7,7 @@ This project is developed as part of to data visualization skills using Excel. T
 **Data Source**
 The dataset used for this analysis is a modified subset sourced from the IBM Accelerator Catalog 
 (https://community.ibm.com/accelerators/?context=analytics&type=Data&product=Cognos%20Analytics&industry=Automotive). 
-For the project, the analysis was performed on data derived from CarSalesByModelStart.xlsx this is the raw data for the project, 
+For the project, the analysis was performed on data derived from **Car-Sales.cvs** this is the raw data for the project, 
 which was then saved as **Car-sales-visualization.xlsx** after completing the visualizations.
 
 The data used for creating the visualizations is in several sheets within the Excel workbook:
